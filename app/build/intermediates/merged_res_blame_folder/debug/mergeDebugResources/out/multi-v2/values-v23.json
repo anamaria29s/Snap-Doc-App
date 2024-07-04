@@ -4,7 +4,7 @@
             "outputFile": "com.example.snapdoc.app-mergeDebugResources-51:/values-v23/values-v23.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\alexa\\.gradle\\caches\\transforms-4\\11a2f224020c342666d27a5e042e79fe\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\alexa\\.gradle\\caches\\transforms-4\\f23f3a2fba7b137010714bab916067c7\\transformed\\cardview-1.0.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alexa\\.gradle\\caches\\transforms-4\\9c4a01dbce84a746a6340e90ae3a6856\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\alexa\\.gradle\\caches\\transforms-4\\bc5a39d32de3f7332f81b24cfbbae716\\transformed\\appcompat-1.6.1\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,20,34,35,36,39,43,44,45,46",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -34,7 +34,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\alexa\\.gradle\\caches\\transforms-4\\9984607a386d3f43f10a70f63d507945\\transformed\\material-1.12.0\\res\\values-v23\\values-v23.xml",
+                    "source": "C:\\Users\\alexa\\.gradle\\caches\\transforms-4\\a47414a87da975bc767c21a672cd5840\\transformed\\material-1.12.0\\res\\values-v23\\values-v23.xml",
                     "from": {
                         "startLines": "2,5,9,13,16,19,22,25,28,32",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

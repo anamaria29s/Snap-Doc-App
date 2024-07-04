@@ -20,8 +20,8 @@
         "source": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.example.snapdoc.app-main-55:\\layout\\dialog_progress.xml"
     },
     {
-        "merged": "com.example.snapdoc.app-mergeDebugResources-52:/layout/activity_image_view.xml",
-        "source": "com.example.snapdoc.app-main-55:/layout/activity_image_view.xml"
+        "merged": "com.example.snapdoc.app-mergeDebugResources-52:/layout/fragment_text_list.xml",
+        "source": "com.example.snapdoc.app-main-55:/layout/fragment_text_list.xml"
     },
     {
         "merged": "C:\\Users\\alexa\\.gradle\\daemon\\8.7\\com.example.snapdoc.app-mergeDebugResources-52:\\layout\\fragment_transform.xml",
